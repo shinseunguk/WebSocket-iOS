@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/incross0915/Desktop/PrivateProject/WebSocket-Example/WebSocket-iOS.xcodeproj">
    </FileRef>
 </Workspace>
