@@ -337,7 +337,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ec8d363e-707d-4189-b669-26ebc7be2f0a" width="600">
+  <img src="https://github.com/user-attachments/assets/b0fc093b-b3e0-4e3d-927c-2259d7859ace" width="600">
 </div>
 
 
